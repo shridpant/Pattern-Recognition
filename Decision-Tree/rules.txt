@@ -1,0 +1,5 @@
+Attribute[1] == Sunny and Attribute[3] == High  => Attribute[0] = No 
+Attribute[1] == Sunny and Attribute[3] == Normal  => Attribute[0] = Yes 
+Attribute[1] == Overcast  => Attribute[0] = Yes 
+Attribute[1] == Rain and Attribute[4] == Weak  => Attribute[0] = Yes 
+Attribute[1] == Rain and Attribute[4] == Strong  => Attribute[0] = Yes 
