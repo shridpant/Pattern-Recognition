@@ -11,7 +11,6 @@
     <a href="https://github.com/shridpant/Pattern-Recognition"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    ·
     <a href="https://github.com/shridpant/Pattern-Recognition/issues">Report Bug</a>
     ·
     <a href="https://github.com/shridpant/Pattern-Recognition/issues">Request Feature</a>
@@ -26,7 +25,6 @@
     * [Built With](#built-with)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -46,14 +44,6 @@ Distributed under the Apache License 2.0. See `LICENSE` for more information.
 ## Contact
 
 Shrid Pant - [LinkedIn](https://www.linkedin.com/in/shridpant/)
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledements
-* [Particle.js](https://github.com/VincentGarreau/particles.js/)
-* [README Template](https://github.com/othneildrew/Best-README-Template)
-* [GitHub Pages](https://pages.github.com)
-* [Google Fonts](https://fonts.google.com/)
-* [Img Shields](https://shields.io)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [issues]: https://img.shields.io/github/issues-raw/shridpant/Pattern-Recognition
