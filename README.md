@@ -1,5 +1,4 @@
 [![Issues][issues]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 [![License][license-shield]][license-url]
 
 <br />
@@ -61,5 +60,3 @@ Shrid Pant - [LinkedIn](https://www.linkedin.com/in/shridpant/)
 [issues-url]: https://github.com/shridpant/Pattern-Recognition/issues
 [license-shield]: https://img.shields.io/badge/licence-Apache-yellowgreen
 [license-url]: https://github.com/shridpant/Pattern-Recognition/blob/master/LICENSE
-[linkedin-shield]: images/readme/linkedin.svg
-[linkedin-url]: https://www.linkedin.com/in/shridpant/
